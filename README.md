@@ -1,5 +1,5 @@
 <h1 align="center">Chào cậu 👋, Mình là Võ Chí Cường</h1>
-<h3 align="center">Sinh viên năm 3 chuyên ngành An toàn thông tin | Đại học Văn Hiến</h3>
+<h3 align="center">Sinh viên năm 4 chuyên ngành An toàn thông tin | Đại học Văn Hiến</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Always+learning+new+things...;Love+coding+and+technology!" alt="Typing SVG" />
