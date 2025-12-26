@@ -23,7 +23,12 @@
 - 🔧 Công cụ: `VS Code`, `Postman`, `Git`, `Docker`
 - ☁️ Nền tảng: `Render`, `Vercel`, `GitHub Actions`
 
+---
 
+## 🌟 Dự án nổi bật
+
+- 🛠 [Trợ Lý VHU Bot (Telegram Bot)](https://github.com/vochicuongg/Tro-ly-VHU)  
+  - Chatbot tự động lấy lịch học, lịch thi, thông tin sinh viên qua portal VHU.
 
 ---
 
@@ -41,14 +46,6 @@
   </a>
 </p>
 
----
-
-## 🌟 Dự án nổi bật
-
-- 🛠 [Trợ Lý VHU Bot (Telegram Bot)](https://github.com/chiscungg0411/Tro-ly-VHU)  
-  - Chatbot tự động lấy lịch học, lịch thi, thông tin sinh viên qua portal VHU.
-
----
 
 # 🧠 “Trong một thế giới đang thay đổi rất nhanh chóng, lộ trình duy nhất đưa bạn đến thất bại là không dám mạo hiểm”.
 
