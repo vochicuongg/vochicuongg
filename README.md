@@ -28,12 +28,11 @@
 ## 🌟 Dự án nổi bật
 
 - 🛠 [Trợ Lý VHU Bot (Telegram Bot)](https://github.com/vochicuongg/Tro-ly-VHU)  
-  - Chatbot tự động lấy lịch học, lịch thi, thông tin sinh viên qua portal VHU.
+- Chatbot tự động lấy lịch học, lịch thi, thông tin sinh viên qua portal VHU.
 
 ---
 
 ## 📫 Liên hệ với mình
-
 <p align="center">
   <a href="https://github.com/chiscungg0411" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000" alt="GitHub" style="border-radius:50%; margin-right:10px; height:60px;" />
