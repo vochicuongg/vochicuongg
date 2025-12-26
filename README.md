@@ -23,15 +23,7 @@
 - 🔧 Công cụ: `VS Code`, `Postman`, `Git`, `Docker`
 - ☁️ Nền tảng: `Render`, `Vercel`, `GitHub Actions`
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiscungg0411&show_icons=true&theme=radical" alt="chiscungg0411 GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiscungg0411&theme=radical" alt="chiscungg0411 GitHub Streak" />
-</p>
 
 ---
 
